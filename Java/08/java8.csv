@@ -1,0 +1,61 @@
+model name,trial,rubric items deducted
+Claude-opus-4,1,2a
+Claude-opus-4,2,"1b,2a"
+Claude-opus-4,3,
+Claude-opus-4.1,1,"1b,2b"
+Claude-opus-4.1,2,"1b,2b"
+Claude-opus-4.1,3,2b
+Claude-sonnet-4,1,
+Claude-sonnet-4,2,
+Claude-sonnet-4,3,2b
+Claude-Sonnet-4.6,1,2b
+Claude-Sonnet-4.6,2,2b
+Claude-Sonnet-4.6,3,"1b,2b"
+Deepseek-R1,1,"1a,2b"
+Deepseek-R1,2,1a
+Deepseek-R1,3,1a
+Gemini-2.0-flash,1,
+Gemini-2.0-flash,2,
+Gemini-2.0-flash,3,1a
+Gemini-2.5-flash,1,
+Gemini-2.5-flash,2,
+Gemini-2.5-flash,3,
+Gemini-2.5-pro,1,2b
+Gemini-2.5-pro,2,
+Gemini-2.5-pro,3,
+Gpt-4.1,1,
+Gpt-4.1,2,
+Gpt-4.1,3,
+Gpt-5,1,
+Gpt-5,2,
+Gpt-5,3,
+Gpt-mini-120,1,
+Gpt-mini-120,2,2b
+Gpt-mini-120,3,2b
+Gpt-mini-20,1,
+Gpt-mini-20,2,"1a,2b"
+Gpt-mini-20,3,
+Gpt-o3,1,
+Gpt-o3,2,2b
+Gpt-o3,3,2b
+Grok 3,1,1a
+Grok 3,2,1a
+Grok 3,3,1a
+Grok 4,1,2b
+Grok 4,2,2b
+Grok 4,3,2b
+Llama-scout-4,1,
+Llama-scout-4,2,1a
+Llama-scout-4,3,1a
+Llama3.3-70,1,
+Llama3.3-70,2,1a
+Llama3.3-70,3,
+Mistral Large,1,1a
+Mistral Large,2,"1a,2a"
+Mistral Large,3,1a
+Qwen 3,1,
+Qwen 3,2,
+Qwen 3,3,
+Qwen 3 Coder,1,
+Qwen 3 Coder,2,
+Qwen 3 Coder,3,

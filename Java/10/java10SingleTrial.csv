@@ -1,0 +1,21 @@
+model name,trial,rubric items deducted
+Claude-opus-4,1,
+Claude-opus-4.1,1,
+Claude-sonnet-3.7,1,
+Claude-sonnet-4,1,
+Deepseek-R1,1,a1
+Gemini-2.0-flash,1,a1
+Gemini-2.5-flash,1,
+Gemini-2.5-pro,1,
+Gpt-4.1,1,
+Gpt-5,1,
+Gpt-mini-120,1,
+Gpt-mini-20,1,
+Gpt-o3,1,
+Grok 3,1,
+Grok 4,1,a1
+Llama-scout-4,1,a1
+Llama3.3-70,1,a1
+Mistral Large,1,a1
+Qwen 3,1,
+Qwen 3 Coder,1,a2
